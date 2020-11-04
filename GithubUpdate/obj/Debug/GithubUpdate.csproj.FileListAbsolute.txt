@@ -1,0 +1,10 @@
+E:\Visual Studio\Projets\GithubUpdate\GithubUpdate\obj\Debug\GithubUpdate.csprojAssemblyReference.cache
+E:\Visual Studio\Projets\GithubUpdate\GithubUpdate\obj\Debug\GithubUpdate.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projets\GithubUpdate\GithubUpdate\bin\Debug\GithubUpdate.exe.config
+E:\Visual Studio\Projets\GithubUpdate\GithubUpdate\bin\Debug\GithubUpdate.exe
+E:\Visual Studio\Projets\GithubUpdate\GithubUpdate\bin\Debug\GithubUpdate.pdb
+E:\Visual Studio\Projets\GithubUpdate\GithubUpdate\bin\Debug\Octokit.dll
+E:\Visual Studio\Projets\GithubUpdate\GithubUpdate\bin\Debug\Octokit.xml
+E:\Visual Studio\Projets\GithubUpdate\GithubUpdate\obj\Debug\GithubUpdate.csproj.CopyComplete
+E:\Visual Studio\Projets\GithubUpdate\GithubUpdate\obj\Debug\GithubUpdate.exe
+E:\Visual Studio\Projets\GithubUpdate\GithubUpdate\obj\Debug\GithubUpdate.pdb
